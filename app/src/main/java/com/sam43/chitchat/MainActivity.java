@@ -110,7 +110,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void showAllOldMessages() {
         loggedInUserName = FirebaseAuth.getInstance().getCurrentUser().getUid();
-        Log.d("Main", "user id: " + loggedInUserName);
+        //Log.d("Main", "user id: " + loggedInUserName);
 
         adapter = new MessageAdapter(this, ChatMessage.class, R.layout.item_in_msg,
                 FirebaseDatabase.getInstance().getReference());
