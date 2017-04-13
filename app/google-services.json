@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1073927690065",
+    "firebase_url": "https://chatting-apps-829e0.firebaseio.com",
+    "project_id": "chatting-apps-829e0",
+    "storage_bucket": "chatting-apps-829e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073927690065:android:62c77c70709930c3",
+        "android_client_info": {
+          "package_name": "com.sam43.chitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073927690065-vbd5g6pih392rqt1du3vmp1ol6p7lpc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sam43.chitchat",
+            "certificate_hash": "d07ce52471dd9857c85a5efa83ff1ac6ef6f5497"
+          }
+        },
+        {
+          "client_id": "1073927690065-rv99hi97t2m5vonpsak2c0b45rrlis15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVvc3QR0Rq-sLEv_IhF0Oy2_uin3ofhsg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073927690065-rv99hi97t2m5vonpsak2c0b45rrlis15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
